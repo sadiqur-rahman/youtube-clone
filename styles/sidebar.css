@@ -1,0 +1,23 @@
+.sidebar{
+    position: fixed;
+    top: 60;
+    left: 0;
+    right: 0;
+    width: 70px;
+    bottom: 0;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.sidebar-button{
+    height: 75px;
+    width: 70px;
+    background-color: white;
+    border: none;
+    font-size: 10px;
+}
+
+.sidebar-button img{
+    height: 25px;
+    margin-bottom: 5px;
+}
