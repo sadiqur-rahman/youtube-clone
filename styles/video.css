@@ -80,6 +80,12 @@
   pointer-events: none;
 }
 
+.profile-picture-pick{
+  width: 52px;
+  border-radius: 26px;
+  cursor: pointer;
+}
+
 .wrapper:hover + .channel-pick{
   opacity: 1;
 }
