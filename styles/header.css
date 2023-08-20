@@ -138,7 +138,6 @@
   position: absolute;
   background-color: rgb(105, 105, 105);;
   font-size: 12px;
-  font-family: roboto, arial;
   color: white;
   width: 36px;
   padding: 8px 8px 8px 8px;
@@ -170,7 +169,6 @@
   position: absolute;
   background-color: rgb(105, 105, 105);;
   font-size: 12px;
-  font-family: roboto, arial;
   color: white;
   width: 76px;
   padding: 8px 8px 8px 8px;
@@ -203,7 +201,6 @@
   position: absolute;
   background-color: rgb(105, 105, 105);;
   font-size: 12px;
-  font-family: roboto, arial;
   color: white;
   width: 68px;
   padding: 8px 8px 8px 8px;
@@ -243,7 +240,6 @@
   background-color: rgb(198, 9, 9);
   color: white;
   font-size: 10px;
-  font-family: roboto, arial;
   padding: 2px 6px 2px 6px;
   border-radius: 10px;
   border: 1px solid white;
